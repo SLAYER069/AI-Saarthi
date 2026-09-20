@@ -1,0 +1,193 @@
+[
+  {
+    "id": "lucknow",
+    "name": "Lucknow",
+    "tagline": "Nawabi kitchens, Awadhi arches",
+    "region": "Awadh",
+    "coords": { "lat": 26.8467, "lng": 80.9462 },
+    "bestTime": "October to March",
+    "nearestStation": "Lucknow Charbagh (LKO)",
+    "about": "Capital of the old Awadh court. The city's food and its architecture come from the same 18th-century kitchens and workshops, which is why a kebab shop and an imambara can sit on the same lane.",
+    "monuments": [
+      { "name": "Bara Imambara", "type": "Monument", "note": "Central hall has no supporting beams; the Bhul Bhulaiya maze sits above it. Hire the official guide at the gate.", "fee": "Yes", "hours": "6:00–17:00" },
+      { "name": "Rumi Darwaza", "type": "Gateway", "note": "60-ft Awadhi gateway, best photographed just after sunrise before traffic builds.", "fee": "Free", "hours": "Open all day" },
+      { "name": "Chota Imambara", "type": "Monument", "note": "Belgian chandeliers and gilded domes. Lit up on Muharram evenings.", "fee": "Yes", "hours": "6:00–17:00" },
+      { "name": "British Residency", "type": "Ruins", "note": "Shell-scarred walls left as they were after the 1857 siege. Quiet gardens, good for a slow hour.", "fee": "Yes", "hours": "7:00–18:00" },
+      { "name": "Chattar Manzil", "type": "Palace", "note": "Umbrella-domed riverside palace of the Nawabs.", "fee": "Free", "hours": "Exterior only" },
+      { "name": "Hussainabad Clock Tower", "type": "Tower", "note": "67 m, tallest clock tower in India, next to Satkhanda.", "fee": "Free", "hours": "Open all day" }
+    ],
+    "food": [
+      { "dish": "Galouti kebab", "where": "Tunday Kababi, Aminabad / Chowk", "note": "Minced mutton kebab that melts without chewing. Eat with warqi paratha.", "veg": false },
+      { "dish": "Mutton biryani", "where": "Idris ki Biryani, Chowk", "note": "Sells out by early afternoon. Go before 1 pm.", "veg": false },
+      { "dish": "Basket chaat", "where": "Royal Cafe, Hazratganj", "note": "Potato basket filled with tikki, dahi and papdi. Lucknow original.", "veg": true },
+      { "dish": "Makhan malai", "where": "Ram Asrey, Chowk", "note": "Winter-only milk foam set in dew. Available roughly December to February.", "veg": true },
+      { "dish": "Nihari-kulcha", "where": "Raheem's, Akbari Gate", "note": "Breakfast dish. Counter opens around 6 am.", "veg": false },
+      { "dish": "Kulfi falooda", "where": "Prakash Kulfi, Aminabad", "note": "Thick, saffron-heavy, served on a leaf plate.", "veg": true }
+    ]
+  },
+  {
+    "id": "agra",
+    "name": "Agra",
+    "tagline": "Marble, red sandstone, and petha",
+    "region": "Braj",
+    "coords": { "lat": 27.1767, "lng": 78.0081 },
+    "bestTime": "November to February",
+    "nearestStation": "Agra Cantt (AGC)",
+    "about": "Mughal capital under three emperors. Most visitors see the Taj and leave; the fort and the riverside tombs on the far bank reward a second day.",
+    "monuments": [
+      { "name": "Taj Mahal", "type": "Mausoleum", "note": "Closed Fridays. Sunrise entry has the thinnest crowds and the best light on the marble.", "fee": "Yes", "hours": "Sunrise–sunset, closed Friday" },
+      { "name": "Agra Fort", "type": "Fort", "note": "Shah Jahan was imprisoned in Musamman Burj with a view of the Taj.", "fee": "Yes", "hours": "6:00–18:00" },
+      { "name": "Itmad-ud-Daulah", "type": "Tomb", "note": "The 'Baby Taj'. First Mughal structure in full marble inlay, and far quieter.", "fee": "Yes", "hours": "Sunrise–sunset" },
+      { "name": "Mehtab Bagh", "type": "Garden", "note": "Across the Yamuna, directly behind the Taj. Best sunset viewpoint.", "fee": "Yes", "hours": "Sunrise–sunset" },
+      { "name": "Fatehpur Sikri", "type": "Ghost city", "note": "40 km out. Buland Darwaza, Panch Mahal and Salim Chishti's dargah. Half-day trip.", "fee": "Yes", "hours": "Sunrise–sunset" },
+      { "name": "Akbar's Tomb, Sikandra", "type": "Tomb", "note": "Resident blackbuck and langurs in the garden enclosure.", "fee": "Yes", "hours": "Sunrise–sunset" }
+    ],
+    "food": [
+      { "dish": "Agra petha", "where": "Panchhi Petha, Sadar Bazaar", "note": "Ash-gourd candy. Try the angoori and kesar versions, not just the dry one.", "veg": true },
+      { "dish": "Bedai and jalebi", "where": "Deviram Sweets, Sadar", "note": "The standard Agra breakfast. Spiced aloo sabzi with a fried bedai.", "veg": true },
+      { "dish": "Mughlai curries", "where": "Pinch of Spice, Fatehabad Road", "note": "Book a table on weekends.", "veg": false },
+      { "dish": "Dalmoth", "where": "Panchhi / Bhagat Halwai", "note": "Salty lentil mix, the usual Agra gift to carry home.", "veg": true },
+      { "dish": "Mughlai paratha and chaat", "where": "Seth Gali, Chhipitola", "note": "Evening street lane, cash only.", "veg": true }
+    ]
+  },
+  {
+    "id": "varanasi",
+    "name": "Varanasi",
+    "tagline": "Ghats at dawn, kachori by seven",
+    "region": "Purvanchal",
+    "coords": { "lat": 25.3176, "lng": 82.9739 },
+    "bestTime": "October to March",
+    "nearestStation": "Varanasi Junction (BSB)",
+    "about": "Among the oldest continuously lived-in cities anywhere. Plan the day around the river: boat at sunrise, lanes at midday, aarti at dusk.",
+    "monuments": [
+      { "name": "Kashi Vishwanath Temple", "type": "Temple", "note": "Reachable through the new corridor from the ghats. Phones not allowed inside.", "fee": "Free", "hours": "3:00–23:00" },
+      { "name": "Dashashwamedh Ghat", "type": "Ghat", "note": "Ganga aarti every evening around sunset. Watch from a boat to avoid the crush.", "fee": "Free", "hours": "Aarti at dusk" },
+      { "name": "Assi Ghat", "type": "Ghat", "note": "Subah-e-Banaras music and yoga at sunrise. Calmer end of the riverfront.", "fee": "Free", "hours": "Open all day" },
+      { "name": "Sarnath", "type": "Buddhist site", "note": "10 km away. Dhamek Stupa, Chaukhandi Stupa and the museum holding the Lion Capital.", "fee": "Yes", "hours": "Sunrise–sunset, museum closed Friday" },
+      { "name": "Ramnagar Fort", "type": "Fort", "note": "Across the river, with a strange, wonderful museum of old palanquins and clocks.", "fee": "Yes", "hours": "10:00–17:00" },
+      { "name": "Manikarnika Ghat", "type": "Ghat", "note": "Cremation ghat. Visit respectfully and do not photograph.", "fee": "Free", "hours": "Open all day" }
+    ],
+    "food": [
+      { "dish": "Kachori sabzi", "where": "Ram Bhandar, Thatheri Bazaar", "note": "Breakfast staple with spiced aloo. Finish with a jalebi.", "veg": true },
+      { "dish": "Tamatar chaat", "where": "Deena Chaat Bhandar, Dashashwamedh", "note": "Soupy, sour, served in a clay bowl. Unique to Banaras.", "veg": true },
+      { "dish": "Malaiyo", "where": "Kachori Gali, winter mornings", "note": "Saffron milk froth, sold only in winter and only till about 10 am.", "veg": true },
+      { "dish": "Blue Lassi", "where": "Blue Lassi Shop, near Manikarnika", "note": "Thick clay-pot lassi with fruit. Expect a queue.", "veg": true },
+      { "dish": "Baati chokha", "where": "Baati Chokha restaurant, Teliyabagh", "note": "Roasted wheat balls with mashed brinjal and tomato.", "veg": true },
+      { "dish": "Banarasi paan", "where": "Keshav Paan Bhandar, Godowlia", "note": "Ask for meetha paan without tobacco.", "veg": true }
+    ]
+  },
+  {
+    "id": "prayagraj",
+    "name": "Prayagraj",
+    "tagline": "Where three rivers and three eras meet",
+    "region": "Purvanchal",
+    "coords": { "lat": 25.4358, "lng": 81.8463 },
+    "bestTime": "November to February",
+    "nearestStation": "Prayagraj Junction (PRYJ)",
+    "about": "Known as Allahabad for most of its modern history. Sangam, colonial civil lines and the houses of the freedom movement sit within a few kilometres of each other.",
+    "monuments": [
+      { "name": "Triveni Sangam", "type": "River confluence", "note": "Take a boat from Saraswati Ghat. Busiest during Magh Mela in January.", "fee": "Boat charges", "hours": "Sunrise–sunset" },
+      { "name": "Allahabad Fort", "type": "Fort", "note": "Akbar's fort; the Ashokan Pillar and Akshayavat are inside the army-held section.", "fee": "Yes", "hours": "Restricted access" },
+      { "name": "Anand Bhavan", "type": "Museum", "note": "Nehru family home turned museum. Closed Mondays.", "fee": "Yes", "hours": "9:30–17:00" },
+      { "name": "Khusro Bagh", "type": "Tomb garden", "note": "Three Mughal tombs in a walled orchard. Rarely crowded.", "fee": "Free", "hours": "Sunrise–sunset" },
+      { "name": "All Saints Cathedral", "type": "Church", "note": "Gothic revival in white sandstone, locally called Patthar Girja.", "fee": "Free", "hours": "8:00–17:00" }
+    ],
+    "food": [
+      { "dish": "Kachori and sabzi", "where": "Netram Moolchand, Katra", "note": "Morning institution. Pair with their dahi jalebi.", "veg": true },
+      { "dish": "Chaat", "where": "Loknath Gali, Chowk", "note": "A whole lane of chaat. Try the palak patta chaat and dahi bada.", "veg": true },
+      { "dish": "Lassi", "where": "Rajaram Lassi, Loknath", "note": "Served thick enough to need a spoon.", "veg": true },
+      { "dish": "Dehati rasgulla", "where": "Hari Ram, Civil Lines", "note": "Denser and less syrupy than the Bengali version.", "veg": true },
+      { "dish": "Samosa and imarti", "where": "Hari ki Chai, Katra", "note": "Evening snack with strong kulhad chai.", "veg": true }
+    ]
+  },
+  {
+    "id": "ayodhya",
+    "name": "Ayodhya",
+    "tagline": "Saryu ghats and temple lanes",
+    "region": "Awadh",
+    "coords": { "lat": 26.7922, "lng": 82.1998 },
+    "bestTime": "October to March",
+    "nearestStation": "Ayodhya Dham (AY)",
+    "about": "A pilgrimage town rebuilt around its temple complex, with a quieter riverfront on the Saryu that most day visitors miss.",
+    "monuments": [
+      { "name": "Ram Mandir", "type": "Temple", "note": "Book darshan slots online in advance; phones and bags are not allowed in.", "fee": "Free", "hours": "6:30–21:30 with breaks" },
+      { "name": "Hanuman Garhi", "type": "Temple", "note": "76 steps up to a hilltop fort-temple. Visit before the main temple, as locals do.", "fee": "Free", "hours": "5:00–22:00" },
+      { "name": "Kanak Bhawan", "type": "Temple", "note": "Ornate gold-leaf interiors, quiet mid-morning.", "fee": "Free", "hours": "8:00–20:00" },
+      { "name": "Ram ki Paidi", "type": "Ghats", "note": "Stepped Saryu ghats, lit up at night and during Deepotsav.", "fee": "Free", "hours": "Open all day" },
+      { "name": "Nageshwarnath Temple", "type": "Temple", "note": "Old Shiva temple, the centre of Ayodhya's Shivratri celebrations.", "fee": "Free", "hours": "5:00–21:00" }
+    ],
+    "food": [
+      { "dish": "Khurchan", "where": "Sweet shops near Hanuman Garhi", "note": "Layered scraped milk sweet, sold by weight.", "veg": true },
+      { "dish": "Rabri and jalebi", "where": "Devraha Baba Marg stalls", "note": "Hot jalebi poured over chilled rabri.", "veg": true },
+      { "dish": "Thandai", "where": "Stalls near Ram ki Paidi", "note": "Cold almond and spice milk, best in summer.", "veg": true },
+      { "dish": "Puri sabzi thali", "where": "Local bhojnalayas in the temple lanes", "note": "Simple satvik meals without onion and garlic.", "veg": true }
+    ]
+  },
+  {
+    "id": "mathura-vrindavan",
+    "name": "Mathura & Vrindavan",
+    "tagline": "Peda, parikrama, and Holi",
+    "region": "Braj",
+    "coords": { "lat": 27.4924, "lng": 77.6737 },
+    "bestTime": "October to March, and Holi in March",
+    "nearestStation": "Mathura Junction (MTJ)",
+    "about": "Twin towns 12 km apart at the centre of the Braj region. Vrindavan holds the temples, Mathura the old bazaar and the ghats.",
+    "monuments": [
+      { "name": "Krishna Janmabhoomi", "type": "Temple", "note": "Heavy security; leave phones and bags with your vehicle.", "fee": "Free", "hours": "5:00–21:00" },
+      { "name": "Banke Bihari Temple", "type": "Temple", "note": "The curtain opens and closes every few minutes. Extremely crowded on weekends.", "fee": "Free", "hours": "7:45–12:00, 17:30–21:30" },
+      { "name": "Prem Mandir", "type": "Temple", "note": "Marble complex with an evening light show.", "fee": "Free", "hours": "8:30–12:00, 16:30–20:30" },
+      { "name": "Dwarkadhish Temple", "type": "Temple", "note": "Mathura's main temple, centre of the Holi celebrations.", "fee": "Free", "hours": "6:30–22:30" },
+      { "name": "Govardhan Hill", "type": "Pilgrim walk", "note": "21 km parikrama. Start before dawn if you plan to walk it.", "fee": "Free", "hours": "Open all day" },
+      { "name": "Vishram Ghat", "type": "Ghat", "note": "Yamuna aarti at sunset.", "fee": "Free", "hours": "Aarti at dusk" }
+    ],
+    "food": [
+      { "dish": "Mathura peda", "where": "Brijwasi Mithai Wala", "note": "Khoya peda with a slight roasted edge.", "veg": true },
+      { "dish": "Kachori with jalebi", "where": "Shankar Mithaiwala, Vrindavan", "note": "Standard Braj breakfast.", "veg": true },
+      { "dish": "Lassi", "where": "Brijwasi Lassi corner, Vrindavan", "note": "Served in kulhads with a layer of malai.", "veg": true },
+      { "dish": "Dauji ki rabri", "where": "Baldeo, near Dauji temple", "note": "Thickened milk set in shallow trays.", "veg": true },
+      { "dish": "Thandai with rose", "where": "Holi Gate, Mathura", "note": "Ask for the non-bhang version unless you know what you are doing.", "veg": true }
+    ]
+  },
+  {
+    "id": "jhansi",
+    "name": "Jhansi",
+    "tagline": "Bundelkhand's fort town",
+    "region": "Bundelkhand",
+    "coords": { "lat": 25.4484, "lng": 78.5685 },
+    "bestTime": "October to February",
+    "nearestStation": "Jhansi (VGLJ)",
+    "about": "A working railway town built around a hill fort, and the usual base for Orchha, 18 km away across the state line.",
+    "monuments": [
+      { "name": "Jhansi Fort", "type": "Fort", "note": "Rani Lakshmibai's fort. Sound-and-light show most evenings.", "fee": "Yes", "hours": "7:00–18:00" },
+      { "name": "Rani Mahal", "type": "Palace", "note": "Small museum of Bundelkhand sculpture inside a painted palace.", "fee": "Yes", "hours": "9:00–17:00" },
+      { "name": "Government Museum", "type": "Museum", "note": "Chandela-era sculpture and coins.", "fee": "Yes", "hours": "10:30–16:30, closed Monday" },
+      { "name": "Orchha", "type": "Day trip", "note": "Just outside UP. Jahangir Mahal, Ram Raja temple and the Betwa cenotaphs.", "fee": "Yes", "hours": "Sunrise–sunset" }
+    ],
+    "food": [
+      { "dish": "Bundelkhandi thali", "where": "Local dhabas near Civil Lines", "note": "Bafla-style baked wheat with dal and ghee.", "veg": true },
+      { "dish": "Samosa and kachori", "where": "Sadar Bazaar stalls", "note": "Fried fresh through the evening.", "veg": true },
+      { "dish": "Imarti", "where": "Old city sweet shops", "note": "Darker and chewier than jalebi.", "veg": true }
+    ]
+  },
+  {
+    "id": "chitrakoot",
+    "name": "Chitrakoot",
+    "tagline": "Forest ghats on the Mandakini",
+    "region": "Bundelkhand",
+    "coords": { "lat": 25.2000, "lng": 80.9000 },
+    "bestTime": "July to March",
+    "nearestStation": "Chitrakoot Dham Karwi (CKTD)",
+    "about": "Hill and forest country associated with the Ramayana exile years, spread across the UP and MP border.",
+    "monuments": [
+      { "name": "Ramghat", "type": "Ghat", "note": "Evening aarti on the Mandakini; boats available through the day.", "fee": "Free", "hours": "Open all day" },
+      { "name": "Kamadgiri", "type": "Pilgrim walk", "note": "5 km forested parikrama around the hill. Watch for monkeys.", "fee": "Free", "hours": "Sunrise–sunset" },
+      { "name": "Gupt Godavari", "type": "Caves", "note": "Walk through ankle-deep water inside the cave. Carry a torch.", "fee": "Yes", "hours": "8:00–17:00" },
+      { "name": "Hanuman Dhara", "type": "Hilltop shrine", "note": "About 360 steps up, with a wide view over the valley.", "fee": "Free", "hours": "6:00–19:00" }
+    ],
+    "food": [
+      { "dish": "Sattu and litti", "where": "Stalls near Ramghat", "note": "Cheap, filling, sold through the morning.", "veg": true },
+      { "dish": "Prasad laddu", "where": "Kamadgiri shops", "note": "Besan laddus sold in leaf boxes.", "veg": true },
+      { "dish": "Kadhi chawal thali", "where": "Dharamshala bhojnalayas", "note": "Simple satvik meal, served at fixed hours.", "veg": true }
+    ]
+  }
+]
